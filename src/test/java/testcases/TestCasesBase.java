@@ -45,7 +45,7 @@ public class TestCasesBase extends AbstractTestNGCucumberTests {
 		}
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
-		driver.navigate().to("https://www.facebook.com");
+		driver.navigate().to("https://www.amazon.com");
 	} 
 
 	@AfterClass
