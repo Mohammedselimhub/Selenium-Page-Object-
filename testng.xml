@@ -4,7 +4,6 @@
 	<test name="Test">
 		<classes>
 			<class name="testcases.LoginTestCases" />
-			<class name="testcases.SignupTestCases" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
